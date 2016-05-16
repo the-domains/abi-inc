@@ -1,0 +1,28 @@
+name: ABI-INC
+favicon: null
+layout_spectrum: 0.7028436996042728
+typography_spectrum: 0.1201113776769489
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6311382602434605
+  lightness: 0.37966345623135567
+  saturation: 0.3340103814844042
+  rhythmicContrast: 0.11785694188438356
+purpose: []
