@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ABI-INC]]></title>
         <description><![CDATA[ABI-INC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/abi-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 15:30:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 15:36:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/abi-inc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Residence Inn by Alamo, TX ]]></title>
-            <description><![CDATA[<article><h1>Residence Inn by Alamo, TX </h1><p>Living area in suite room</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6022ff0e-eb99-491e-be84-18b02c85870b.jpg"></article>]]></description>
-            <link>undefinedresidence-inn-by-alamo-tx/index.html</link>
+            <title><![CDATA[Residence Inn by the Alamo, TX ]]></title>
+            <description><![CDATA[<article><h1>Residence Inn by the Alamo, TX </h1><p>Living area in suite room</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6022ff0e-eb99-491e-be84-18b02c85870b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/abi-inc/residence-inn-by-alamo-tx/index.html</link>
             <guid isPermaLink="false">c67b28fe-8048-4631-8c58-ec3aeffbb5f7</guid>
-            <pubDate>Mon, 16 May 2016 15:30:33 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 15:36:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
