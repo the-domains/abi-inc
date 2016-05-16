@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Living area in suite room
-datePublished: '2016-05-16T15:30:33.000Z'
-dateModified: '2016-05-16T15:30:12.258Z'
-title: 'Residence Inn by Alamo, TX '
+datePublished: '2016-05-16T15:36:38.381Z'
+dateModified: '2016-05-16T15:30:42.750Z'
+title: 'Residence Inn by the Alamo, TX '
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-16-residence-inn-by-alamo-tx.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-residence-inn-by-alamo-tx.md
 url: residence-inn-by-alamo-tx/index.html
 _type: Article
 
