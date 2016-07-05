@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Proudly Serving the Hotel Industry
-datePublished: '2016-05-16T15:55:51.005Z'
-dateModified: '2016-05-16T15:55:46.790Z'
+datePublished: '2016-07-05T18:55:12.822Z'
+dateModified: '2016-05-16T15:56:02.491Z'
 title: ''
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-16-proudly-serving-the-hotel-industry.md
+starred: true
 url: proudly-serving-the-hotel-industry/index.html
 _type: Article
 
