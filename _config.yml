@@ -1,4 +1,4 @@
-name: ABI-INC
+name: American Building Interiors
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.90948
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.6311382602434605
   lightness: 0.37966345623135567
   saturation: 0.3340103814844042
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
