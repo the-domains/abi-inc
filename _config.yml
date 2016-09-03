@@ -1,29 +1,41 @@
-name: American Building Interiors
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.90948
 title: ABI-INC
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3340103814844042
+  brandStrength: 0.4856631
+  lightness: 0.3796634562313557
   brandColors:
     - '#381809'
     - '#d0a875'
     - '#6b5a52'
     - '#fafefe'
     - '#c12800'
-  brandStrength: 0.6311382602434605
-  lightness: 0.37966345623135567
-  saturation: 0.3340103814844042
   rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: American Building Interiors
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5358423
+layout_spectrum: 0.9713262
